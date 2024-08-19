@@ -1,1 +1,23 @@
-/*  your css code here. If applicable */
+.author{
+	display: flex;
+	align-items: flex-start;
+	font-size:15px;
+	
+	
+}
+img{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+.container{
+	background-color: #ffffff;
+	width: 400px;
+	height: 200px;
+	
+}
+body{
+	background-color: #f8f8f8;
+}
+
